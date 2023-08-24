@@ -1,5 +1,12 @@
 # RDAndroid-Stream
 Streaming webcam video to android phone using rawdrawandroid (https://github.com/cnlohr/rawdrawandroid ) on a local network. 
+client.c is compiled using rawdrawandroid (see below).
+
+server.cpp was compiled and run on linux. server.cpp should be moved to another dir and compiled using openCV's make file. 
+
+
+
+
 
 ## To use this app
  * please visit CNLorh's rawdraw-android github: https://github.com/cnlohr/rawdrawandroid and get the demo code installed and working on your android device. 
